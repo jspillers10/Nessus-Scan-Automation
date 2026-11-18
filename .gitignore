@@ -1,0 +1,13 @@
+bin/
+obj/
+TestResults/
+*.user
+.vs/
+.idea/
+# Scan exports and local secrets must never be committed
+out/
+*.findings.json
+*.findings.csv
+.env
+*.pfx
+*.key

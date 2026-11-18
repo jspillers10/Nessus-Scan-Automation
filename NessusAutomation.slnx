@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NessusAutomation.Cli/NessusAutomation.Cli.csproj" />
+    <Project Path="src/NessusAutomation/NessusAutomation.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NessusAutomation.Tests/NessusAutomation.Tests.csproj" />
+  </Folder>
+</Solution>
